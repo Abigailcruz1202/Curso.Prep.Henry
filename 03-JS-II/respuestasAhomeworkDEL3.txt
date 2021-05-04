@@ -1,0 +1,18 @@
+for = Se usa para crear ciclos, cuando queremos repetir un conjunto de instrucciones 
+la cantidad de veces que querramos o necesitemos que se repita.
+Ejemplo de ciclo : 
+for (var i = 0; i < 10; i++)
+ el nomero 10 es la cantidad de veces que se repetia nuestro ciclo.
+
+&& = Se usa para saber si las cosas que estamos comparando son verdadero o falsas las dos. 
+&& es igual que decir 'Y'
+ejemplo 1+1+1=3  &&(Y)  2+1=3
+
+|| = Se usa para saber si las cosas que estamos comparando son verdaderas o falsas una o la otra. 
+|| es igual que decir 'O'
+ejemplo 3*9=27  ||(O) 3*9=26
+
+! = Este signo u operador significa NO (NOT, en ingles). cuando vemos esto ! en una funcion y el resultado
+deberia dar verdadero este signo nos dara como respuesta o resultado un falso
+Ejemplo
+1 !== 1 Esto deberia dar VERDADERO pero al tener este signo ! nos daria como respuesta FALSO.

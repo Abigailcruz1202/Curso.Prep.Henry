@@ -1,0 +1,17 @@
+Objetos
+Los objetos se usan para guardar informacion sobre un solo tema, ejemplo datos personales de una persona
+especifica como nombre, apellido, domicilio, etc.
+
+Propiedades
+Las propiedades son los datos que agregamos a los objetos.
+
+Métodos
+Se les dicen metodos a las funciones en los objetos. 
+
+Bucle for…in
+Sirve para pasar por cada propiedad que nos estan enumeradas (es decir que no tienen 
+indice de numeros) de los objetos. 
+
+Notación de puntos vs notación de corchetes
+Se usa Notacion de . puntos para acceder a una propiedad con el nombre.
+Se usa notacion de [] corchetes cuando accedemos a una propiedad a travez de una variable.

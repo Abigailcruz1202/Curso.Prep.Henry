@@ -1,0 +1,23 @@
+1. Variables 
+ Las variables nos sirven para guardar informacion (nombre,frases,valores,numeros,ect)
+temporal en la memoria de la computadora.
+
+2. Strings
+ Strings en progracion es  por ejemplo como una frase, es decir que es un conunto de 
+palabras que explican o hablan de algo que tiene sentido.
+
+3. Funciones (argumentos, return)
+ Usamos las funciones para realizar o calcular una tarea especifica. Una funcion esta compuesta por 
+ argumentos que son el/los valores que vamos a usar para llevar a cabo nuestra funcion, operadoes que nos 
+ dicen que es lo que va hacer la funcion( ejemplo: +, -, *, /) y resturn = retornar, devolver que "devuelve"
+ el valor final de la funcion es decir el resltado.
+
+4. Declaraciones if
+ En programacion las declaracion if las usamos para decir "si esta cosa es verdad, entonces haz X,
+  pero si esta otra cosa es verdad, entonces haz Y".
+  Es como cuando despertamos por la mañana: "si afuera está lloviendo, entonces llevo 
+  un paraguas, pero si está soleado, me pongo lentes de sol".
+
+5. Valores booleanos (true, false)
+ Los valores booleanos true(verdadero) y false(falso) los usamos para decir si algo
+ es verdadero o falso.

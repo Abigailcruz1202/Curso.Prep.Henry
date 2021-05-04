@@ -1,0 +1,8 @@
+UN PROTOTIPO ES UN MODELO, EJEMPLAR DE UNA COSA O FIGURA.
+prototype:
+Los prototype en JavaScript son ............
+
+Constructors (de Clases):
+El construcctor de clases nos sirve para pasar las propiedades que va a tener nuestra clase al momento de instanciarlas, es deir 
+crear un nuevo objeto con las propiedades de nuestro construcctor.
+

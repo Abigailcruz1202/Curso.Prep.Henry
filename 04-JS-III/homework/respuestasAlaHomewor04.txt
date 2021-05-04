@@ -1,0 +1,1 @@
+Arrays : Los arrays son una lista de elemento ordenados por posicion en un índice numérico que empieza por el número 0
