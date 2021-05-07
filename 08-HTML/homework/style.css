@@ -1,0 +1,23 @@
+
+h1 {
+    text-decoration: underline 2px;
+    text-align: center;
+}
+img {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 70%;
+    top: 23%;
+}
+.datos {
+    position: relative;
+    right: -9%;
+}
+.divClass {
+    position: relative;
+    right: -9%;
+}
+.pclass {
+    width: 80%;
+}
